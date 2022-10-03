@@ -155,8 +155,11 @@ Surveillance data should be analyzed with regard to the age and vaccination stat
 The major questions are which age groups have the most cases, lower proportions of vaccinated cases, and any changes over time. Please note that the age groups for each year contain persons born in different years, and the bars represent different numbers of birth cohorts, (e.g., there is only one birth cohort represented by the “<1 year” bars but four birth cohorts represented by the “1-4 years” bars). Hence the size of the bar is not directly proportional to the incidence in the age group. This figure could be enhanced by adding incidence. Please note that children that are too young to receive the vaccine dose (e.g., children <9 months or <12 months too young to receive MCV1) are expected to be unvaccinated due to their age. These cases are programmatically non-preventable. Among older cases, it is expected that some will be vaccinated, depending on timing of historical vaccine introduction in the country. Interpreting vaccination status in older age groups may be challenging because of the time elapsed since vaccination and the possibility of recall bias. In which age groups is the greatest number of cases? Have they had access to an SIA?
 
 #### Non-measles non-rubella discard rate (NMNR)
+Surveillance performance should be assessed at the subnational level and compared to geographic variation in reporting of cases and outbreaks to determine whether there are areas with repeated outbreaks that suggest immunity gaps, or whether variations in surveillance performance could explain subnational variations in reported disease incidence and the occurrence of outbreaks.
 
 ![Non-measles non-rubella discard rate (NMNR)](resources/images/non-measles-non-rubella-discard-rate-nmnr.png)
+
+What are the trends of the national and subnational surveillance performance indicators (e.g., non-measles discard rates) over time? Are they consistent between subnational areas or do they vary? What are the trends of specimen collection and testing adequacy? Refer to the national guidelines for the surveillance performance indicator targets. The subnational areas that do not meet the targets for these indicators should be looked at more closely for explanatory reasons.
 
 #### Proportion of Measles/Rubella specimen adequacy received by National laboratory (%)
 
