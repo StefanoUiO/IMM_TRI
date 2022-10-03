@@ -126,10 +126,6 @@ The dashboard **['EPI - Immunity Gaps]** is designed to:
 #### [Measles confirmed cases IDS vs. VPD-CS](#measles-confirmed-cases-ids-vs-vpd-cs)
 *Same visualization present on the Program Performance dashboard*
 
-#### Reported measles cases vs incidence
-
-![Reported measles cases vs incidence](resources/images/reported-measles-cases-vs-incidence.png)
-
 #### Confirmed measles cases vs MR1 & MR2 coverage
 
 Looking at coverage and surveillance data together in the same graph can be helpful, either to:
